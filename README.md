@@ -2,6 +2,7 @@
 1. [Project Overview](#schema1)
 2. [Getting Started](#schema2)
 3. [Deploying your system](#schema3)
+4. [REF](#schema4)
 
 
 <hr>
@@ -34,3 +35,15 @@ Create a new an endpoint in `./src/server.js` which uses query parameter to down
 ## 3. Deploying your system
 
 Used to `eb init` a new application and `eb create` a new environment to deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
+
+![eb](./img/eb.png)
+
+
+<hr>
+<a name='schemaref'></a>
+
+
+## REF:
+
+
+https://knowledge.udacity.com/questions/994301
